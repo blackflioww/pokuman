@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4453896172849469618
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 345256724789295452}
+  m_Layer: 0
+  m_Name: dikentopuyeni
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &345256724789295452
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4453896172849469618}
+  m_LocalRotation: {x: 0, y: 0, z: -0.7901017, w: 0.61297584}
+  m_LocalPosition: {x: 157, y: 246.53668, z: -920.84143}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3128955442806487959}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 615.61}
+--- !u!1001 &2360628360956648006
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 345256724789295452}
+    m_Modifications:
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.53848267
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 815.3539
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3362090501858373236, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+      propertyPath: m_Name
+      value: dikentopu
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+--- !u!4 &3128955442806487959 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 841868123266736593, guid: 78ba8b398ff02fa449b989eb4843b68e, type: 3}
+  m_PrefabInstance: {fileID: 2360628360956648006}
+  m_PrefabAsset: {fileID: 0}

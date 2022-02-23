@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - baslangiczemini
+  - jumppowerup
+  - diken
+  - checkpoint1
+  - checkpoint2
+  - checkpoint3
+  - speedpowerup
+  - saSohareketliplatform
+  - soSahareketliplatform
+  - invispowerup
+  - checkpoint4
+  - superpowerup
+  - checkpoint5
+  - asko
+  - deadzone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - post proccesing
+  - powerups
+  - diken
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

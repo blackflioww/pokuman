@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f4ef568b-4d1f-ea74-2408-e725734e399f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFXRRuntime", "CFXRRuntime.csproj", "{f67582b2-9abd-0e2d-6e06-0ee8cacdaa56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFXREditor", "CFXREditor.csproj", "{7e0099f2-4a90-0ad8-e072-b75e7dcc83e1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f4ef568b-4d1f-ea74-2408-e725734e399f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f4ef568b-4d1f-ea74-2408-e725734e399f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f4ef568b-4d1f-ea74-2408-e725734e399f}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{f4ef568b-4d1f-ea74-2408-e725734e399f}.Release|Any CPU.Build.0 = Release|Any CPU
+		{f67582b2-9abd-0e2d-6e06-0ee8cacdaa56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f67582b2-9abd-0e2d-6e06-0ee8cacdaa56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f67582b2-9abd-0e2d-6e06-0ee8cacdaa56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{f67582b2-9abd-0e2d-6e06-0ee8cacdaa56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7e0099f2-4a90-0ad8-e072-b75e7dcc83e1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7e0099f2-4a90-0ad8-e072-b75e7dcc83e1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7e0099f2-4a90-0ad8-e072-b75e7dcc83e1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7e0099f2-4a90-0ad8-e072-b75e7dcc83e1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
